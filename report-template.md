@@ -19,7 +19,7 @@ In this section, describe the analysis you completed for the machine learning mo
       - have the accuracy score , confusion matrix and classification report of test predicton and test original
       - now have an oversampling of the original data to remove the class imbalance
       - run the regression model on oversampled data 
-      - run the model to predict original test data
+      - run the model to predict original test data  
       - finally have the accuracy score , confusion matrix and classification report of test prediction of oversampled data with original test data
 
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
